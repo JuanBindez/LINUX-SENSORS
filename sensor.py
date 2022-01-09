@@ -10,6 +10,10 @@ def sensor():
         time.sleep(2)
         os.system("clear")
 
-sensor()
+try:
+    sensor()
+
+except KeyboardInterrupt:
+    print("você encerrou o programa")
 
 
