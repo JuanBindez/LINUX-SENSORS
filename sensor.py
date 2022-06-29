@@ -1,4 +1,7 @@
-#python3 sensor.py
+'''
+Autor: www.github.com/JuanBindez
+Descrição: faz um loop no comando sensors do linux para facilitar a visualização.
+'''
 
 import os
 import time
