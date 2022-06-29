@@ -1,6 +1,9 @@
 '''
-Autor: www.github.com/JuanBindez
-Descrição: faz um loop no comando sensors do linux para facilitar a visualização.
+Author: www.github.com/JuanBindez
+Description: loops in linux's sensors command for easy viewing
+Python Version: 3.10
+year: 2022
+Local: Brazil
 '''
 
 import os
